@@ -11,8 +11,6 @@ Book Finder is a simple and user-friendly web application that allows users to s
 
 ## Getting Started
 
-Follow these steps to set up the project locally:
-
 1. **Clone the repository:**
    ```
    git clone <your-repo-url>
@@ -33,10 +31,6 @@ The app will be available at `http://localhost:5173` by default.
 - [React](https://react.dev/)
 - [Vite](https://vitejs.dev/)
 - [Open Library API](https://openlibrary.org/developers/api)
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
 
