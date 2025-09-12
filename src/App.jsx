@@ -1,10 +1,16 @@
 import React from 'react'
-import BookFinder from './components/Book.jsx'
+
+
+import Book from './components/Book'
+
 
 const App = () => {
   return (
     <div>
-      <BookFinder/>
+
+      <Book/>
+
+   
     </div>
   )
 }

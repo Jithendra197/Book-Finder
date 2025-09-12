@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "bookfind",
+=======
+  "name": "bookfindapp",
+>>>>>>> acb47d4e8fc2b3d277b9727837bac2bdf3bb0956
   "homepage": "https://github.com/Jithendra197/Book-Finder/",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +12,13 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
+<<<<<<< HEAD
     "preview": "vite preview"
+=======
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+>>>>>>> acb47d4e8fc2b3d277b9727837bac2bdf3bb0956
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
